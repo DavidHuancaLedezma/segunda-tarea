@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=matematico
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ matematico\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ indicarMayorMenorMedio(int,\ int,\ int)
+comment2.params=altura\ base
+comment2.target=int\ calcularArea(int,\ int)
+comment3.params=x1\ x2\ y1\ y2
+comment3.target=double\ calcularDistancia(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=double\ calcularCuadrante()
+numComments=5
